@@ -7,4 +7,7 @@ the program calculates the speed of objects through that section.
 
 Accurate to +- .5 mph.
 
+# Future:
+I am looking to this summer implementing a 'distance from camera' model to then be able to calculate speed without setting a known distance while still using a single camera. 
+
 Credit to Adrian Rosebrock for the tracking algorithm
